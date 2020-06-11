@@ -1,4 +1,4 @@
-```c#
+```csharp
 using System;
 class Solution {
     public int solution(int N) {
